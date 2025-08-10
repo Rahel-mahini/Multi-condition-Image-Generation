@@ -24,11 +24,12 @@ This project aims to bridge the gap by using CT scans as input to synthesize cor
 
 📂 Dataset
 The dataset used in this project is from the SynthRAD2023 Challenge
-"A Benchmark for Cross-Modality Medical Image Translation" (paper link).
+"A Benchmark for Cross-Modality Medical Image Translation" ((https://arxiv.org/abs/2303.16320?utm_source=chatgpt.com)).
 It includes paired CT and MRI brain images for supervised training and evaluation of generative models.
 
 📄 License & Usage
 Please follow the dataset license and usage guidelines provided by the SynthRAD2023 Challenge organizers.
 Model code and pipeline are for research purposes only.
+
 
 
