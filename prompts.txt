@@ -1,0 +1,5 @@
+healthy brain CT scan
+tumor brain MRI scan
+brain tumor imaging
+healthy brain MRI
+tumor detected in CT scan
